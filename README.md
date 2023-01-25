@@ -3,7 +3,7 @@
 
 Projeto de Decisão e Aprendizagem Inteligentes
 
-Classificação do projeto: .../20
+Classificação do projeto: 15.4/20
 
 # Autores
 
